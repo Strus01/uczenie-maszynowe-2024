@@ -5,3 +5,4 @@ Ucznie maszynowe 2024
 - [Trees Notebook](https://github.com/Strus01/uczenie-maszynowe-2024/blob/99590bf747be083ddeed43862842da90c8577879/trees/055Decision_trees_Exercises.ipynb)
 - [Ensemble Notebook](https://github.com/Strus01/uczenie-maszynowe-2024/blob/b07772768b034bfb248fa68270439198bf99d073/ensemble/075Ensemble_Exercises.ipynb)
 - [SVM Notebook](https://github.com/Strus01/uczenie-maszynowe-2024/blob/fc3be9ab2c5a7bd6a2821bf9e9b111bf04e8d58c/svm/065_SVM_Exercises.ipynb)
+- [NLP Notebook](https://github.com/Strus01/uczenie-maszynowe-2024/blob/bb5dbb82c6c0ed1265cd30b433919c3945427c52/nlp/106_NLP_Exercises.ipynb)
